@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
-    <img src="https://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443" alt="PowerBI" width="50" height="50"/>
+    <img src="https://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443" alt="PowerBI" width="45" height="45"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
