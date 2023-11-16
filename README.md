@@ -66,10 +66,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" title="Seaborn">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
-
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
 </p>
 
 
