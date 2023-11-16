@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryansfzendron&label=Profile%20views&color=0e75b6&style=flat" alt="bryansfzendron" /> </p>
 
+- 🌱 Atualmente estou aprendendo **Análise de dados com IA**
+
+- 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
+
+- 📫 Como entrar em contato comigo **bryan.zendron@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/bryan.sebben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryan.sebben" height="30" width="40" /></a>
