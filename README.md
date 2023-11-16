@@ -16,7 +16,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bryan.zendron@gmail.com" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/256/281/281769.png" alt="Gmail" height="30" width="40" />
 </a>
-<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=bryan.zendron@hotmail.com" target="_blank">
+<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=bryan.zendron@gmail.com" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" height="30" width="40" />
 </a>
 </p>
