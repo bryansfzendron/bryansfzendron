@@ -32,6 +32,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
+  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+    <img src="https://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443" alt="PowerBI" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -43,9 +46,6 @@
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
-    <img src="https://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443" alt="PowerBI" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
