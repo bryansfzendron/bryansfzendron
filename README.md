@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://fb.com/bryan.sebben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryan.sebben" height="30" width="40" /></a>
 <a href="https://instagram.com/bryan.zendron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryan.zendron" height="30" width="40" /></a>
+<a href="https://wa.me/5511974617129" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
